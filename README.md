@@ -22,7 +22,6 @@ Open your browser and visit http://localhost:3000 to see the GitHub Issues page.
 ## Features
 Displays a list of open issues from a GitHub repository.
 Implements pagination for easy navigation through the list of issues.
-Supports light and dark mode for a customizable user experience.
 Technologies Used-
     React.js
     GitHub API
